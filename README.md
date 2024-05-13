@@ -1,6 +1,12 @@
 ### Olá! meu nome é Johnny Matheus, natural de Campo Grande MS.Atualmente estou morando em SC, sou estudande do curso de Ciências da Computação na Universidade do Oeste de Santa Catarina (UNOESC).
 ###  👉 Com respeito, foco disciplina juntos cresceremos. 👈 
-#
+#FORMAÇÃO
+#Formação Java Web Full-Stack e Spring Boot REST API -> em andamento
+#Desenvolvimento Web
+#Desenvolvimento Desktop
+#Manutenção e Suporte em informática
+#Redes de Computadores
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-matheus-nogueira-de-medeiro-930724306/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_johnny_matheus/)
