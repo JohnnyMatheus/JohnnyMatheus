@@ -17,7 +17,7 @@
 
 ![Johnny Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
 
-
+![Johnny Matheus Status](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true)
 
 ## Tecnologias que estou estudando
 
