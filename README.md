@@ -2,12 +2,12 @@
 ###  👉 Com respeito, foco disciplina juntos cresceremos. 👈 
 <div style="display: inline_block"></br>
 <h1>FORMAÇÃO</h1>
- <p>Ciências da Computação</p>    
-<p>Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
-<p>Desenvolvimento Web</p>
- <p>Desenvolvimento Desktop</p>
-<p>Manutenção e Suporte em informática</p>
-<p>Redes de Computadores</p>
+<p>🧠Ciências da Computação</p>    
+<p>☕Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
+<p>🌍Desenvolvimento Web</p>
+<p>🖥️Desenvolvimento Desktop</p>
+<p>🪛Manutenção e Suporte em informática</p>
+<p>🛜Redes de Computadores</p>
 </div>
 
 
