@@ -39,7 +39,6 @@
 </br>
 
 
-![Snake animation](https://github.com/JohnnyMatheus/JohnnyMatheus/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=compact)](https://github.com/JohnnyMatheus/github-readme-stats)
 
 
