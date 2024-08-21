@@ -7,7 +7,7 @@
 <p>🌍Desenvolvimento Web</p>
 <p>🖥️Desenvolvimento Desktop</p>
 <p>⚙Manutenção e Suporte em informática</p>
-<p>Redes de Computadores</p>
+<p>🛡Redes de Computadores</p>
 </div>
 
 
