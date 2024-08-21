@@ -1,4 +1,4 @@
-### Olá! meu nome é Johnny Matheus e ejam bem vindos ao meu perfil.
+### Olá! meu nome é Johnny Matheus e sejam bem vindos ao meu perfil.
 ###  👉 Com respeito, foco disciplina juntos cresceremos. 👈 
 <div style="display: inline_block"></br>
 <h1>FORMAÇÃO</h1>
