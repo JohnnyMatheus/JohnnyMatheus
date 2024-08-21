@@ -1,4 +1,4 @@
-### Olá! meu nome é Johnny Matheus, natural de Campo Grande MS.Atualmente estou morando em SC, sou estudande do curso de Ciências da Computação na Universidade do Oeste de Santa Catarina (UNOESC).
+### Olá! meu nome é Johnny Matheus e ejam bem vindos ao meu perfil.
 ###  👉 Com respeito, foco disciplina juntos cresceremos. 👈 
 <div style="display: inline_block"></br>
 <h1>FORMAÇÃO</h1>
