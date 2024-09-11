@@ -1,6 +1,7 @@
 ### Olá! meu nome é Johnny Matheus e sejam bem vindos ao meu perfil.
 ###  👉 Com respeito, foco disciplina juntos cresceremos. 👈 
 <div style="display: inline_block"></br>
+     
 <h1>FORMAÇÃO</h1>
 <p>🧠Ciências da Computação</p>    
 <p>☕Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
@@ -8,6 +9,8 @@
 <p>🖥️Desenvolvimento Desktop</p>
 <p>⚙Manutenção e Suporte em informática</p>
 <p>🛡Redes de Computadores</p>
+<p>Prêmio melhores alunos Mato Grosso do sul
+<p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/
 </div>
 
 
