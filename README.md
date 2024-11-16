@@ -9,6 +9,7 @@
 <p>🖥️Desenvolvimento Desktop</p>
 <p>⚙Manutenção e Suporte em informática</p>
 <p>🛡Redes de Computadores</p>
+<p>🔸Técnico em Inspeção da qualidade</p>
 <p>Prêmio melhores alunos Mato Grosso do sul
 <p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/
 </div>
