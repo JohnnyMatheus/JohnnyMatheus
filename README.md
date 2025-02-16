@@ -3,7 +3,7 @@
 <div style="display: inline_block"></br>
      
 <h1>FORMAÇÃO</h1>
-<p>🧠Ciências da Computação</p>    
+<p>🧠Ciência da Computação</p>    
 <p>☕Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
 <p>🌍Desenvolvimento Web</p>
 <p>🖥️Desenvolvimento Desktop</p>
