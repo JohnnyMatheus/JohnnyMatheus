@@ -1,6 +1,10 @@
 ### Olá! meu nome é Johnny Matheus e sejam bem vindos ao meu perfil.
 ###  👉 Com respeito, foco disciplina juntos cresceremos. 👈 
 <div style="display: inline_block"></br>
+✝️ Cristão
+🗺️Campo Grande MS - São Miguel do Oeste SC
+🤠Sul-Mato-Grossense
+🎓Ciência da Computação
      
 <h1>FORMAÇÃO</h1>
 <p>🧠Ciência da Computação</p>    
