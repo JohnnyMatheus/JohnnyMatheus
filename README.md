@@ -6,6 +6,7 @@
 🗺️Campo Grande MS - São Miguel do Oeste SC
 🤠Sul-Mato-Grossense
 🎓Ciência da Computação
+     
 </span>
 <h1>FORMAÇÃO</h1>
 <p>🧠Ciência da Computação</p>    
@@ -14,10 +15,10 @@
 <p>🖥️Desenvolvimento Desktop</p>
 <p>⚙Manutenção e Suporte em informática</p>
 <p>🛡Redes de Computadores</p>
-<p>🎲Banco de Dados
+<p>🎲Banco de Dados</p>
 <p>🔸Técnico em Inspeção da qualidade</p>
-<p>Prêmio melhores alunos Mato Grosso do sul
-<p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/
+<p>Prêmio melhores alunos Mato Grosso do sul</p>
+<p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/</p>
 </div>
 
 
