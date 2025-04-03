@@ -1,11 +1,12 @@
 <h1 align="center">Olá! meu nome é Johnny Matheus e sejam bem vindos ao meu perfil.</h1>
 <h3 align="center">👉 Com respeito, foco disciplina juntos cresceremos. 👈 </h3>
+<span align ="center">
 <div style="display: inline_block"></br>
 ✝️ Cristão
 🗺️Campo Grande MS - São Miguel do Oeste SC
 🤠Sul-Mato-Grossense
 🎓Ciência da Computação
-     
+</span>
 <h1>FORMAÇÃO</h1>
 <p>🧠Ciência da Computação</p>    
 <p>☕Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
