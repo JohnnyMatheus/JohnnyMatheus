@@ -2,7 +2,7 @@
 <h3 align="center">👉 Com respeito, foco disciplina juntos cresceremos. 👈 </h3>
 <span align ="center">
 <div style="display: inline_block"></br>
-     ALTAS HABILIDADE - SUPERDOTAÇÃO
+
 ✝️ Cristão
 🗺️Campo Grande MS - São Miguel do Oeste SC
 🤠Sul-Mato-Grossense
