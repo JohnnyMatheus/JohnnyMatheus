@@ -52,7 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=compact)](https://github.com/JohnnyMatheus/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?JohnnyMatheus=ffflabs)](https://github.com/JohnnyMatheus/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyMatheus)](https://github.com/JohnnyMatheus/github-readme-stats)
 
 
 
