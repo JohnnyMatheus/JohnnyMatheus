@@ -27,8 +27,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xjohnnybr)
 
 <!--![Johnny Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)-->
-
-![Johnny Matheus Status](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true)
+![Johnny Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
+<!--![Johnny Matheus Status](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true) -->
 
 
 ## 🦾Tecnologias que estou estudando
