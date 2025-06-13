@@ -3,7 +3,7 @@
 <span align ="center">
 <div style="display: inline_block"></br>
 
-✝️ Cristão
+
 🗺️Campo Grande MS - São Miguel do Oeste SC
 🤠Sul-Mato-Grossense
 🎓Ciência da Computação
