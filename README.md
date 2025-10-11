@@ -29,22 +29,13 @@
 
 <!-- ![JohnnyMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)-->
 
-<!--###
+
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
--->
-
-<!-- Stats -->
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnnyMatheus&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMatheus&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
-</div>
 
 ## 🦾Tecnologias que estou estudando
 
