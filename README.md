@@ -27,7 +27,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xjohnnybr)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&hide=contribs,prs)
 </div>
 
 ## 🦾Tecnologias que estou estudando
