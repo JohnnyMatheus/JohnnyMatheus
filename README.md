@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMatheus&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-## 🦾Tecnologias que estou estudando
+<h1 align="center"> 🦾Tecnologias que estou estudando</h1>
 
 <div style="display: inline_block"></br>
      <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
