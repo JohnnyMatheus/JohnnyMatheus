@@ -51,3 +51,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=compact)](https://github.com/JohnnyMatheus/github-readme-stats)
 
 [![JohnnyMatheus' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyMatheus)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JohnnyMatheus/JohnnyMatheus/output/snake.svg" alt="Snake animation" />
+
+###
