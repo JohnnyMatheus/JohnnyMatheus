@@ -21,11 +21,22 @@
 <p>Prêmio melhores alunos Mato Grosso do sul</p>
 <p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/</p>
 
-<div align="center">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-matheus-nogueira-de-medeiro-930724306/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_johnny_matheus/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/xjohnnybr)
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johnny-matheus-nogueira-de-medeiro-930724306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_johnny_matheus/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv/xjohnnybr">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+</p>
 
 <!-- ![JohnnyMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)-->
 
