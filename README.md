@@ -17,6 +17,7 @@
 <p>⚙Manutenção e Suporte em informática</p>
 <p>🛡Redes de Computadores</p>
 <p>🎲Banco de Dados</p>
+<p>😎</p>
 <p>🔸Técnico em Inspeção da qualidade</p>
 <p>Prêmio melhores alunos Mato Grosso do sul</p>
 <p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/</p>
