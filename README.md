@@ -18,8 +18,8 @@
 <p>🛡Redes de Computadores</p>
 <p>🎲Banco de Dados</p>
 <p>🔸Técnico em Inspeção da qualidade</p>
-<p>Prêmio melhores alunos Mato Grosso do sul</p>
-<p>Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/</p>
+<p>🏆Prêmio melhores alunos Mato Grosso do sul</p>
+<p>🏆Prêmio estadual SC https://tvgc.com.br/alunos-do-senai-sao-miguel-conquistam-premiacao-estadual/</p>
 
 
 <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-matheus-nogueira-de-medeiro-930724306/)
