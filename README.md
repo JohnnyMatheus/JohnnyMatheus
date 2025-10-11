@@ -80,10 +80,4 @@
 [![JohnnyMatheus' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyMatheus)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/JohnnyMatheus/JohnnyMatheus/blob/output/github-snake-dark.svg)
-</div>
-
 
