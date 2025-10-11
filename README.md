@@ -52,6 +52,12 @@
 
 [![JohnnyMatheus' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyMatheus)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JohnnyMatheus/JohnnyMatheus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JohnnyMatheus/JohnnyMatheus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JohnnyMatheus/JohnnyMatheus/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 
