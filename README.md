@@ -29,13 +29,21 @@
 
 <!-- ![JohnnyMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)-->
 
-###
+<!--###
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </div>
 
 ###
+-->
+
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyMatheus&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 ## 🦾Tecnologias que estou estudando
 
@@ -61,10 +69,10 @@
 [![JohnnyMatheus' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnnyMatheus)](https://github.com/anuraghazra/github-readme-stats)
 
 
-###
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/JohnnyMatheus/JohnnyMatheus/blob/output/github-snake-dark.svg)
+</div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/JohnnyMatheus/JohnnyMatheus/output/snake.svg" alt="Snake animation" />
-
-###
