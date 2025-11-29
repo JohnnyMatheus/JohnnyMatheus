@@ -37,8 +37,7 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
 </p>
-
-![JohnnyMatheus GitHub stats](https://github-readme-stats.vercel.app/api?JohnnyMatheus=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JohnnyMatheus=anuraghazra&show_icons=true&theme=radical)
 
 <h1 align="center"> 🦾Tecnologias que estou estudando</h1>
 
