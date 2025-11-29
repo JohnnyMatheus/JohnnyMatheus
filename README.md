@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<!-- ![JohnnyMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)-->
+ ![JohnnyMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
 
 
 
