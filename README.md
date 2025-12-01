@@ -40,6 +40,8 @@
 
 ![Anurag's GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
 
+[![Top Langs](https://readme-github-stats-zeta.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=donut-vertical)](https://github.com/JohnnyMatheus/github-readme-stats)
+
 <h1 align="center"> 🦾Tecnologias que estou estudando</h1>
 
 <div style="display: inline_block"></br>
