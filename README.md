@@ -62,9 +62,11 @@
    
 </div>  
 
+</br>
 <div align="center">
   
-[![Top Langs](https://readme-github-stats-zeta.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=donut-vertical)](https://github.com/JohnnyMatheus/github-readme-stats)
+  [![Top Langs](https://readme-github-stats-zeta.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=donut-vertical)](https://github.com/JohnnyMatheus/github-readme-stats)
+  
 </div>
 
 </br>
