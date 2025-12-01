@@ -38,6 +38,8 @@
   </a>
 </p>
 
+![Anurag's GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
+
 <h1 align="center"> 🦾Tecnologias que estou estudando</h1>
 
 <div style="display: inline_block"></br>
