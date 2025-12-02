@@ -40,7 +40,9 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical) -->
+
+![Anurag's GitHub stats](readme-github-stats-git-main-johnnymatheus-projects.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
 
 </div>
 
