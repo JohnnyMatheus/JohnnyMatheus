@@ -9,7 +9,7 @@
 🎓Ciência da Computação
 </div>     
 </span>
-<h1>FORMAÇÃO</h1>
+<h1 align="center">FORMAÇÃO</h1>
 <p>🧠Ciência da Computação</p>    
 <p>☕Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
 <p>🌍Desenvolvimento Web</p>
