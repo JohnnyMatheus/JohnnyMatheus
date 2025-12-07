@@ -44,6 +44,11 @@
 
 </div>
 
+# teste
+
+<div>
+  <img src="https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical" />
+</div>
 
 
 <h1 align="center"> 🦾Tecnologias que estou estudando</h1>
