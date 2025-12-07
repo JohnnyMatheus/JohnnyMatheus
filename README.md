@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4207E&width=435&lines=%F0%9F%98%8AOl%C3%A1!+meu+nome+%C3%A9+Johnny+Matheus)](https://git.io/typing-svg)
+<div align="center">
 
-<h1 align="center">Olá! meu nome é Johnny Matheus e sejam bem vindos ao meu perfil.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=606958&repeat=false&width=620&height=60&lines=%F0%9F%98%8AOl%C3%A1!+meu+nome+%C3%A9+Johnny+Matheus)](https://git.io/typing-svg)
 
+</div>
 <h3 align="center">👉 Com respeito, foco disciplina juntos cresceremos. 👈 </h3>
 <span align ="center">
 <div style="display: inline_block"></br>
