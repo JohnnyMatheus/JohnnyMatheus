@@ -45,7 +45,7 @@
 <!--<div align="center">
 ![Johnny Matheus GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
 </div>-->
-<!--
+
 <div style="text-align: center;" align="center">
   
   <img src="https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
@@ -55,27 +55,10 @@
     
   </a>
 </div>
--->
 
-<div style="display: flex; justify-content: center; gap: 20px;">
 
-  <!-- STATS MILITAR -->
-  <img 
-    src="https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=0A0F0A&title_color=6B8E23&text_color=C4C4C4&border_radius=8&border_color=556B2F&icon_color=6B8E23&ring_color=6B8E23&theme=dark&hide_border=false"
-    alt="GitHub Stats"
-    style="filter: drop-shadow(0 0 6px #6B8E23) drop-shadow(0 0 15px #556B2F);"
-  />
 
-  <!-- LANGS MILITAR -->
-  <a href="https://github.com/JohnnyMatheus/github-readme-stats">
-    <img 
-      src="https://readme-github-stats-zeta.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=compact&card_width=290&count_private=true&langs_count=4&show_icons=true&title_color=9ACD32&text_color=BEBEBE&bg_color=0A0F0A&border_radius=8&border_color=6B8E23&icon_color=9ACD32"
-      alt="Most Used Languages"
-      style="filter: drop-shadow(0 0 6px #9ACD32) drop-shadow(0 0 15px #556B2F);"
-    />
-  </a>
 
-</div>
 
 
 
