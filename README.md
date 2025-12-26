@@ -52,7 +52,7 @@
   <img
     height="200"
     align="center"
-    src="(https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical"
+    src="https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical"
     style="filter: drop-shadow(0 0 12px #a855f7);"
   />
 </a>
