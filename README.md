@@ -47,27 +47,16 @@
 </div>-->
 
 <div style="text-align: center;" align="center">
-
-<a href="https://github.com/JohnnyMatheus">
-  <img
-    height="200"
-    align="center"
-    src="https://meu-github-readme-stats.vercel.app/api?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical"
-    style="filter: drop-shadow(0 0 12px #a855f7);"
-  />
-</a>
+  <a href="https://github.com/JohnnyMatheus">
+    <img height="200" align="center" src="https://meu-github-readme-stats.vercel.app/api?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical" style="filter: drop-shadow(0 0 12px #a855f7);"/>
+  </a>
 <!--src="https://github-readme-stats.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical"-->
-<a href="https://github.com/JohnnyMatheus/">
-  <img
-    height="200"
-    align="center"
-    src="https://meu-github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical"
-    style="filter: drop-shadow(0 0 12px #a855f7);"/>
-</a>
-  <!--https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical -->
+  <a href="https://github.com/JohnnyMatheus/">
+    <img height="200" align="center" src="https://meu-github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical" style="filter: drop-shadow(0 0 12px #a855f7);"/>
+  </a>
 </div>
 
-
+ <!--https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical -->
 <h1 align="center"> 🦾Tecnologias que estou estudando</h1>
 
 <div style="display: inline_block"></br>
