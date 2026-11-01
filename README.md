@@ -47,7 +47,7 @@
 </div>
 
 <div align="center">
-![Johnny Matheus GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
+[![Johnny Matheus GitHub stats](https://readme-github-stats-zeta.vercel.app/api?username=JohnnyMatheus&show_icons=true&theme=radical)
 </div>
 
 <!--
