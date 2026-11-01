@@ -46,8 +46,7 @@
 
 </div>
 
-
- https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=radical)](https://github.com/JohnnyMatheus)
  
  <h1 align="center"> 🦾Tecnologias que estou estudando</h1>
 
