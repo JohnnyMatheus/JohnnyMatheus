@@ -14,6 +14,8 @@
 </div>     
 </span>
 <h1 align="center">FORMAÇÃO</h1>
+<p>🎶Músico</p>
+<p>🎸Guitarrista🎧</p>
 <p>🧠Ciência da Computação</p>    
 <p>☕Formação Java Web Full-Stack e Spring Boot REST API -> em andamento</p>
 <p>🌍Desenvolvimento Web</p>
