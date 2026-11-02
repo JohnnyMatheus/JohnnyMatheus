@@ -43,8 +43,8 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
 </p>
+<div align="center">[![GitHub Stats](https://medeiro-stats.vercel.app/api/stats?user=JohnnyMatheus)](https://github.com/JohnnyMatheus)</div>
 
-[![GitHub Stats](https://medeiro-stats.vercel.app/api/stats?user=JohnnyMatheus)](https://github.com/JohnnyMatheus)
 
 
  
