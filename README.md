@@ -44,21 +44,7 @@
   </a>
 </p>
 
-<div>
-  <a href="https://github.com/JohnnyMatheus">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnnyMatheus&layout=compact&langs_count=8&card_width=320" alt="Top Linguagens de JohnnyMatheus" />
-  </picture>
-</a>
-</div>
+[![GitHub Stats](https://medeiro-stats.vercel.app/api/stats?user=JohnnyMatheus)](https://github.com/JohnnyMatheus)
 
 
  
