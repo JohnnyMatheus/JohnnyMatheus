@@ -1,8 +1,8 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=606958&repeat=false&width=620&height=60&lines=%F0%9F%98%8AOl%C3%A1!+meu+nome+%C3%A9+Johnny+Matheus)](https://git.io/typing-svg)
-
 </div>
+
+
 <h3 align="center">👉 Com respeito, foco disciplina juntos cresceremos. 👈 </h3>
 <span align ="center">
 <div style="display: inline_block"></br>
@@ -43,7 +43,12 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
 </p>
-<div align="center">[![GitHub Stats](https://medeiro-stats.vercel.app/api/stats?user=JohnnyMatheus)](https://github.com/JohnnyMatheus)</div>
+
+<div align="center">
+  
+  [![GitHub Stats](https://medeiro-stats.vercel.app/api/stats?user=JohnnyMatheus)](https://github.com/JohnnyMatheus)
+
+</div>
 
 
 
@@ -65,6 +70,7 @@
 </div>  
 
 </br>
+
 <!--<div align="center">
   [![Top Langs](https://readme-github-stats-zeta.vercel.app/api/top-langs/?username=JohnnyMatheus&layout=donut-vertical)](https://github.com/JohnnyMatheus/github-readme-stats)
 </div>-->
